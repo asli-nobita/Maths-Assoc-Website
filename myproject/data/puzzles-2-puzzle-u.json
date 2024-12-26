@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "puzzles-2-puzzle-u",
+  "private_key_id": "ddac4558c75f7427705dcf74dee623345e1bf6f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwr2t8CEnUrrSc\nblPa3kN7Dt0jxwIzQ8TFcS9xmXb86bk9ocwHdy9cg8+jB2zzvLrXYVz4Yva3melI\nokLJsi91xqDCl2xDcauWs28Jw9fOX5m3soBYmgMGWnWob5r9Qbti5NHldCqAhLds\nCBVgU8z5QS8AOY/nm0sXLx+P0dKPsEBpj+6bZexa5BdwSa6MZpQDVCc3NpN+A2s7\n9PeNZfn3kKiP0mrTjupvTABDrKOLJbJ1mvONAtMjxoBBCF+tE7qpMN1iSyzOETsX\neqHxATDTOuHa5Ut9tB2QnBVL+t3wIuyzjWdGgPNAZ9P3yiZmz+HNq4H8nzWJOLHe\nLeypt3SrAgMBAAECggEABMkLgTV8Qm1k6OO4E7J3Y2rYpHJsZdUNDEfvgAUnCtyN\nrtSmAQHCX6AWTJUT51oSOWkiqnuLsRdTESuL4YiY7nitu/d78Cuw+QjtFfee7bD7\nKdWE0mGBeXeTvjcfnIJeP+RwpuVJjWeKzDs/0PcUEyAn1Lq6Ygx7sSoOkceeC1Qw\nNLX9QF/Rl7b21m85qlKnBVoXcwnjvK0w57gE1JoWOaSfwoXC08r1qnU0RDPg7I6B\noAHpAe68TvoQTHwhopGyzAd+mDFzOapm62imV0I2baUpSajGHH9ogD3gDjTxbglC\nR/Bm/gfwPIxhTGnkw5xMl9a+pDH3qiblbvYAE8ksyQKBgQDYjVvQZbE1AINiNzY4\nSVKzeMiq8dx/jKrVGKujAGdOrhaMRYXEjotiOSMiVtRW3nYZ0Z22fGmuBDJc0mNu\n0ZC/QdRz4Q3biLcPN3d9pZ+gaaz94T07Z/Q+m4gjRzO2iHR8IIN641F+JxI+Zxaq\nX3m7O7ZGFiLsUdr7p9p0TtnuBQKBgQDQ3upsna6p3PczEv3QUuWH/Hd3fiC1ZLyY\nUHCf5B5scZfoNChmAmmT1Wc2RtIUXSfanycPzP5bP9TbGJ+7P7M+puwdZh5klJXw\nxRqvxgl80XSpKDt+hbzXpv9sKmvEeCsBNC8kt5E0IJnTLeEIuEq6PKwK31Sk7SdB\nHy/8NS+m7wKBgGn7NLYXLtTrvWEx+D0v1WO0dzECUZGy/GByRH3v0p91H9/inocF\n5D1cDU/fAujI0y/roK4Q0X+y2hsHdFZmBds0ko9r02Zf0IeH89jwV+EgFuPheiA6\nzhRd9hCd5jctLSUanH5mBhohcRJNTZBwTZlOrfQ7HThfDzcefRFzDcEpAoGATNmH\n5TjLGAKODYOyUWD+xN72UcfdXwBWh7ApEBtNula9LplqN8YxdEwzcnvyNb3kuQKP\ny7d/6rD8rzRLKQkR+T5PZ624BwfId1L+M6gou30RcF+2LCImzi3KktC04A/autGp\netfzm/tWvaWGw7+S9xz1q/Zp3VjIdaR08lXbV48CgYA6oyK5/C7lPGcrdMN0sJcz\nqZtj5LHExLThzCfYgWHDmMa/KjbO6NH/ShPHt+QVfBZxF3zowKOpZHBpjsfIeA1D\nY/mFqv3niEGYkl9sCmKHkC1hCqxFCYIwJRyXpnJzWsPyerY2ZT6a+gi76MUWOjLp\nNdhItBNe5fm9LYF/P5nTmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mathsassoc-puzzles@puzzles-2-puzzle-u.iam.gserviceaccount.com",
+  "client_id": "109660015943772752780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mathsassoc-puzzles%40puzzles-2-puzzle-u.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -6,7 +6,7 @@
   <title>Mathematics Association - BITS Pilani</title> 
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"> 
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="/styles/styles.css">
 </head>
 <body class="bg-light">
   <!-- Hero Wrapper -->
@@ -36,21 +36,20 @@
       <div class="container">
         <h1>Welcome to the Mathematics Association</h1>
         <p>Fostering the love for mathematics at BITS Pilani, Pilani campus.</p>
-        <a href="#about" class="btn btn-primary btn-lg mt-4">Learn More</a>
       </div>
     </section>
   </div> 
 
-  <div class="container"> 
-    <button class="bg-sky-400 rounded-lg"> 
+  <div class="container flex justify-center items-center my-4">  
+    <button class="bg-sky-400 rounded-lg puzzle-btn"> 
       <a href="./puzzles.html" class="text-white">This Week's Puzzle</a>
     </button>
   </div>
 
   <!-- About Us Section -->
   <section id="about" class="py-5 my-4 bg-white">
-    <div class="container">
-      <h1 class="section-title text-center">About Us</h1>
+    <div class="container flex flex-col justify-center items-center lg:px-32 md:px-16 px-8">
+      <h1 class="section-title text-center text-3xl mb-4">About Us</h1>
       <p class="text-center text-muted fs-5">The Mathematics Association at BITS Pilani is a vibrant community of students and faculty who share a passion for mathematics. We organize workshops, guest lectures, and competitions to foster mathematical thinking and problem-solving skills. Join us to explore the beauty of numbers and logic!</p>
     </div>
   </section>
@@ -108,11 +107,11 @@
           </div>
         </div>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#eventsCarousel" data-bs-slide="prev">
+      <button class="carousel-control-prev flex" type="button" data-bs-target="#eventsCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
       </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#eventsCarousel" data-bs-slide="next">
+      <button class="carousel-control-next flex" type="button" data-bs-target="#eventsCarousel" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>

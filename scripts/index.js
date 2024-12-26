@@ -73,7 +73,7 @@ responseForm.addEventListener('submit', function (event) {
     const data = { name, email, response, puzzleId, isCorrect };
   
     // Send the data to the backend
-    fetch('http://localhost:3000/submit-response', {
+    fetch('http://localhost:8000/responses/submit-response/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data)
@@ -88,7 +88,7 @@ responseForm.addEventListener('submit', function (event) {
     });
 
 
-  fetch('http://localhost:3000/submit-response', {
+  fetch('http://localhost:8000/responses/submit-response/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(data)
@@ -105,7 +105,7 @@ responseForm.addEventListener('submit', function (event) {
     })
     .catch((error) => {
         console.error('Error:', error);
-    });
+    }); 
 });
    
 
