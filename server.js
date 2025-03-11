@@ -26,6 +26,12 @@ mongoose
 const CURRENT_WEEK = "week1";
 const CORRECT_ANSWER = "2";
 
+const puzzleStatement = "You have a gold bar of length 7 units. Suppose a quirky customer comes up to you and puts up a request. He wants to have in his possession one unit of gold bar the first day of the week, two units the second day, and so on upto the seventh day. You can take back pieces of gold bar from him so long as this condition is satisfied. What is the minimum number of cuts you need to apply to your gold bar in order to fulfill his demand?";
+
+app.get("/puzzle/current", (req, res) => {
+	res.json({ statement: puzzleStatement });
+});
+
 const submissionSchema = new mongoose.Schema({
 	name: { type: String, required: true },
 	email: { type: String, required: true },
